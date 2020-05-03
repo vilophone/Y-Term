@@ -54,7 +54,7 @@ mpv "${yt}${link}" -vo tct
 #elif [ $form = "n" ]; then
 #vim ytermEdit.txt -c ":e yterm.txt" -c ":call Get()" -c ":normal ZZ"
 elif [ $form = "v" ]; then
-vlc "${yt}${link}"
+mpv "${yt}${link}"
 fi
 done
 #END
