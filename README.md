@@ -1,6 +1,7 @@
 # Y-Term - A Terminal Based Youtube Application
 
 This application does not use the YouTube API and it is ad free.
+You can watch videos, audio only, download videos or download audio only.
 It is still a work in progress. 
 
 How to use: 
