@@ -2,7 +2,7 @@
 
 This 2.5 KB application does not use the YouTube API and it is ad free.
 You can watch videos, listen to audio only, download videos or download audio only.
-It is still a work in progress. 
+It is still a work in progress but it runs! Features will continue to be added. 
 It works with a Vim script I made that parses (crawls/scrapes) youtube search pages to find the titles and URLs. 
 
 ![y-term-video](https://user-images.githubusercontent.com/64742558/80991611-e8312a80-8dfd-11ea-88b1-49fa4d0249df.png)
