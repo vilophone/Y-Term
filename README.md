@@ -19,7 +19,8 @@ Note: you must have the following installed for it to work (or you can mod the c
 - .vim file must be in /usr/share/vim/vimfiles/profiles
 - yterm.txt & yterm.sh files must share the same directory 
 
-![Y-Term](https://user-images.githubusercontent.com/64742558/80991019-ff234d00-8dfc-11ea-87e1-fed252f4cc4f.png)
+![Y-Term](https://user-images.githubusercontent.com/64742558/80991402-98eafa00-8dfd-11ea-86d1-272180f98bbe.png)
+![y-term-video](https://user-images.githubusercontent.com/64742558/80991406-9ab4bd80-8dfd-11ea-8de7-48f5d9a0aabe.png)
 
 How it works - behind the scenes: 
 1) user inputs search
