@@ -12,7 +12,8 @@ It works with a Vim script I made that parses (crawls/scrapes) youtube search pa
 1) put the .vim file in your /usr/share/vim/vimfiles/plugin directory 
 2) put the .sh file anywhere you want and create a file called yterm.txt in the same directory 
 
-## Note: you must have the following installed for it to work (or you can mod the code to work with other programs)
+## Note: you must have the following installed for it to work (most OSs come preinstalled with almost all of these programs)
+### or you can mod the code to work with other programs
 - bash terminal
 - vim
 - mpv media player (or any, just edit code to use whatever player you want)
