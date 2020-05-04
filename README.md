@@ -19,7 +19,7 @@ Note: you must have the following installed for it to work (or you can mod the c
 - .vim file must be in /usr/share/vim/vimfiles/profiles
 - yterm.txt & yterm.sh files must share the same directory 
 
-![alt text](https://ibb.co/tQFtXXs)
+https://ibb.co/tQFtXXs
 
 How it works - behind the scenes: 
 1) user inputs search
