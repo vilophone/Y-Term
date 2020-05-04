@@ -5,7 +5,8 @@ You can watch videos, listen to audio only, download videos or download audio on
 It is still a work in progress but it runs! Features will continue to be added. 
 It works with a Vim script I made that parses (crawls/scrapes) youtube search pages to find the titles and URLs. 
 
-![output5](https://user-images.githubusercontent.com/64742558/80998971-78c13800-8e09-11ea-91df-09d490964ed2.gif)
+![Y-Term](https://user-images.githubusercontent.com/64742558/80999642-9d69df80-8e0a-11ea-8ec9-6eef9a0b6b11.png)
+![y-term-video](https://user-images.githubusercontent.com/64742558/80999644-9e9b0c80-8e0a-11ea-851b-a814cfb39f72.png)
 
 ## How to use: 
 1) put the .vim file in your /usr/share/vim/vimfiles/plugin directory 
