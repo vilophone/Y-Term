@@ -1,8 +1,9 @@
-# Y-Term - A Terminal Based Youtube Application
+# Y-Term - A Lightweight Terminal Based Youtube Application
 
-This application does not use the YouTube API and it is ad free.
+This 2.5 KB application does not use the YouTube API and it is ad free.
 You can watch videos, audio only, download videos or download audio only.
 It is still a work in progress. 
+It works with a Vim script I made that parses (crawls/scrapes) youtube search pages to find the titles and URLs. 
 
 How to use: 
 1) put the .vim file in your /usr/share/vim/vimfiles/plugin directory 
@@ -16,4 +17,15 @@ Note: you must have the following installed for it to work (or you can mod the c
 - youtube-dl
 - curl
 - .vim file must be in /usr/share/vim/vimfiles/profiles
-- yterm.txt & yterm.sh files must share the same directory
+- yterm.txt & yterm.sh files must share the same directory 
+
+How it works - behind the scenes: 
+1) user inputs search
+2) curl gets html of that youtube search page 
+3) Vim parses through and finds titles and URLs 
+4) shell prints Vim results (titles)
+5) user selects a video using a number (1-9) and a format (a - audio only, v -video and audio, d - download, da - download audio only)
+6) mpv media player launches video/audio OR youtube-dl downloads video/audio
+
+Fun facts: 
+- the Vim script parses through the entire youtube search html in a few miliseconds (too fast for me to time it) - a lot faster than youtube itself.
