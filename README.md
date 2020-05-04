@@ -13,7 +13,7 @@ It works with a Vim script I made that parses (crawls/scrapes) youtube search pa
 2) put the .sh file anywhere you want and create a file called yterm.txt in the same directory 
 
 ## Note: you must have the following installed for it to work (or you can mod the code to work with other programs)
-(most OSs come preinstalled with almost, if not all of these programs)
+(most UNIX based OSs come preinstalled with almost, if not all of these programs)
 - bash terminal
 - vim
 - mpv media player (or any, just edit code to use whatever player you want)
