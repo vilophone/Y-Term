@@ -1,6 +1,6 @@
 # Y-Term - A Very Lightweight Terminal Based Youtube Application
 
-This 2.5 KB application does not use the YouTube API and it is ad free.
+This 2.3 KB application does not use the YouTube API and it is ad free.
 You can watch videos, listen to audio only, download videos or download audio only.
 It is still a work in progress but it runs! Features will continue to be added. 
 It works with a Vim script I made that parses (crawls/scrapes) youtube search pages to find the titles and URLs. 
